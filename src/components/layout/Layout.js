@@ -4,8 +4,8 @@ import './Layout.css';
 function Layout(props) {
   return (
     <div className="main">
-      <main>{props.children}</main>
       <MainNavigation />
+      <main className="childs">{props.children}</main>
     </div>
   );
 }

@@ -6,4 +6,8 @@
     min-width: 100%;
     min-height: 100%;
     }
-    
+    .childs {
+        margin: 3rem auto;
+        width: 90%;
+        max-width: 40rem;
+      }

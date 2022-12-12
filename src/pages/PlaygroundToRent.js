@@ -1,5 +1,7 @@
+import RentForm from '../components/football-configuration/RentForm';
+
 function PlaygroundToRentPage() {
-  return <div>play</div>;
+  return <RentForm />;
 }
 
 export default PlaygroundToRentPage;
